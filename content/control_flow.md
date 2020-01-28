@@ -1,10 +1,6 @@
 ---
 title: Control Flow
 description: Example test article that contains basic HTML elements for text formatting on the Web.
-tags:
-  - "HTML"
-  - "CSS"
-  - "Basic Elements"
 menu: main
 ---
 
