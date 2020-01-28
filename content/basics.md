@@ -35,11 +35,3 @@ menu: main
 {{< left-column >}}{{% code file="basics/strings2.java" %}}{{< /left-column >}}
 {{< right-column >}}{{% code file="basics/strings2.go" %}}{{< /right-column >}}
 {{< /flex >}}
-
-## Strings II
-
-{{< flex >}}
-{{< left-column >}}{{% code file="basics/ternary.java" %}}{{< /left-column >}}
-{{< right-column >}}{{% code file="basics/ternary.go" %}}{{< /right-column >}}
-{{< /flex >}}
-
