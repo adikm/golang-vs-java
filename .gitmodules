@@ -1,0 +1,6 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/vimux/binario

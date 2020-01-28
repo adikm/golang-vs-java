@@ -1,0 +1,104 @@
+baseurl = "/"
+title = "Binario"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "binario"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+  name = "John Doe"
+  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer."
+  avatar = "img/avatar.png"
+
+[Params]
+  description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
+  copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
+  mainSections = ["post"] # Set main page sections
+  post_meta = ["date", "categories"] # Enable post meta fields in given order
+  dateFormat = "January 02, 2006" # Change the format of dates
+  colorTheme = "" # dark-green, dark-blue, dark-red, dark-violet
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+  mainMenuAlignment = "right" # Align main menu (desktop version) to the right side
+  authorbox = true # Show authorbox at bottom of single pages if true
+  toc = true # Enable Table of Contents for all site pages
+  tocOpen = true # Open Table of Contents block. Optional
+  comments = true # Enable comments for all site pages
+  related = true # Enable Related content for single pages
+  relatedMax = 5 # Set the maximum number of posts that can be displayed in related block. Optional
+  mathjax = true # Enable MathJax for all site pages
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path. Optional
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config. Optional
+  hideNoPostsWarning = false # Don't show no posts empty state warning in main page, if true
+
+[Params.Featured]
+  previewOnly = false # Show only preview featured image
+
+[Params.Breadcrumb]
+  enable = true # Enable breadcrumb block globally
+  homeText = "Binario" # Home node text
+
+[Params.Social]
+  email = "example@example.com"
+  facebook = "username"
+  twitter = "username"
+  telegram = "username"
+  instagram = "username"
+  pinterest = "username"
+  vk = "username"
+  linkedin = "username"
+  github = "username"
+  gitlab = "username"
+  stackoverflow = "numberid"
+  mastodon = "https://some.instance/@username"
+  medium = "username"
+
+[Params.Share] # Post Share block
+  facebook = true
+  twitter = true
+  reddit = true
+  telegram = true
+  linkedin = true
+  vk = true
+  pocket = true
+  pinterest = true
+
+# Web App Manifest settings
+# https://www.w3.org/TR/appmanifest/
+# https://developers.google.com/web/fundamentals/web-app-manifest/
+[Params.Manifest]
+  name = "Binario"
+  shortName = "Binario"
+  display = "browser"
+  startUrl = "/"
+  backgroundColor = "#2a2a2a"
+  themeColor = "#1b1b1b"
+  description = "Responsive card-based & code-light Hugo theme"
+  orientation = "portrait"
+  scope = "/"
+
+  [outputFormats]
+  [outputFormats.MANIFEST]
+    mediaType = "application/json"
+    baseName = "manifest"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "MANIFEST"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "monokai"
+    tabWidth = 2
