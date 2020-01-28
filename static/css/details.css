@@ -1,0 +1,40 @@
+.flex-container {
+    display: flex;
+}
+
+@media screen and (max-width: 851px) {
+    .flex-container {
+        flex-direction: column;
+    }
+}
+
+.flex-container > .flex-column {
+    flex: 1;
+    padding: 0 15px;
+    max-width: 580px;
+}
+
+pre code {
+    font-size: 0.825em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+
+h2 {
+    text-align: center;
+    margin: 0.75rem;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+.post__title, .post__meta, .post__footer {
+    display: none;
+}
+
+.author__bio {
+    text-align: center;
+}
