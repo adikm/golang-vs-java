@@ -12,7 +12,9 @@ Inspired by [driver733/kotlin-vs-java](https://github.com/driver733/kotlin-vs-ja
 
 # Adding new code
 The code snippets are placed inside the content directory. They are grouped by categories. Each code snippet has its counterpart in GoLang and Java.
+
 If you want to add a new snippet, just create "snippet.go" and "snippet.java", then include it in the suitable markdown template file.
+
 You can create new category by creating a new folder and a new markdown template.
 
 # Contribution
