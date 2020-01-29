@@ -7,7 +7,7 @@ class Person {
     }
 }
 Person getNameAndAge() {
-    return a*b;
+    return new Person("John", 18)
 }
 Person person = getNameAndAge();
 var name = person.name;

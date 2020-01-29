@@ -1,3 +1,3 @@
-func multiply(a, b) Int {
+func multiply(a, b int) int  {
 	return a*b
 }
