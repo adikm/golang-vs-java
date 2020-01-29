@@ -29,7 +29,7 @@ menu: main
 {{< right-column >}}{{% code file="basics/strings1.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
-## Strings II
+## Multiline strings
 
 {{< flex >}}
 {{< left-column >}}{{% code file="basics/multiline.java" %}}{{< /left-column >}}

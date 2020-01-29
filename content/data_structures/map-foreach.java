@@ -1,0 +1,1 @@
+mapA.forEach((key, value) -> System.out.println(k + ":" + v));

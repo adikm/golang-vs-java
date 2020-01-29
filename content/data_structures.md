@@ -15,6 +15,13 @@ menu: main
 {{< right-column >}}{{% code file="data_structures/array.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
+## For-each over an array
+
+{{< flex >}}
+{{< left-column >}}{{% code file="data_structures/array-foreach.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="data_structures/array-foreach.go" %}}{{< /right-column >}}
+{{< /flex >}}
+
 ## Multidimensional array
 
 {{< flex >}}
@@ -22,11 +29,24 @@ menu: main
 {{< right-column >}}{{% code file="data_structures/multi_array.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
-## Lists
+## For-each over a multi-dimensional array
+{{< flex >}}
+{{< left-column >}}{{% code file="data_structures/multi_array-foreach.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="data_structures/multi_array-foreach.go" %}}{{< /right-column >}}
+{{< /flex >}}
+
+## List/slice
 
 {{< flex >}}
 {{< left-column >}}{{% code file="data_structures/list.java" %}}{{< /left-column >}}
 {{< right-column >}}{{% code file="data_structures/list.go" %}}{{< /right-column >}}
+{{< /flex >}}
+
+## For-each over a list/slice
+
+{{< flex >}}
+{{< left-column >}}{{% code file="data_structures/list-foreach.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="data_structures/list-foreach.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
 ## Maps
@@ -34,4 +54,11 @@ menu: main
 {{< flex >}}
 {{< left-column >}}{{% code file="data_structures/map.java" %}}{{< /left-column >}}
 {{< right-column >}}{{% code file="data_structures/map.go" %}}{{< /right-column >}}
+{{< /flex >}}
+
+## For-each over a map
+
+{{< flex >}}
+{{< left-column >}}{{% code file="data_structures/map-foreach.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="data_structures/map-foreach.go" %}}{{< /right-column >}}
 {{< /flex >}}

@@ -11,6 +11,13 @@ menu: main
 {{< right-column >}}{{% code file="control_flow/conditionals.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
+## If with a statement
+
+{{< flex >}}
+{{< left-column >}}{{% code file="control_flow/if-short.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="control_flow/if-short.go" %}}{{< /right-column >}}
+{{< /flex >}}
+
 ## Switch expression
 
 {{< flex >}}
