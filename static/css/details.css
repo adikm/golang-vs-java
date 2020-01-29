@@ -38,3 +38,15 @@ h4 {
 .author__bio {
     text-align: center;
 }
+
+.site-title {
+    height: 2rem;
+    margin-bottom: 0;
+    border-bottom-width: 0;
+    padding-top: 4px;
+}
+.site-title-text {
+    font-size: 1.25rem;
+    margin-right: auto;
+    margin-left: auto;
+}
