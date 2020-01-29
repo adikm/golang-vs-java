@@ -1,6 +1,15 @@
 ---
 title: Control Flow
-description: Example test article that contains basic HTML elements for text formatting on the Web.
+description: Cheatsheet of GoLang control flow code snippets. Java vs GoLang conditional, switch statements comparison
+tags:
+  - "GoLang"
+  - "Java"
+  - "GoLang switch statement"
+  - "GoLang if"
+  - "GoLang conditional statements"
+  - "GoLang for"
+  - "GoLang loops"
+  - "GoLang while"
 menu: main
 ---
 

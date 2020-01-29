@@ -1,10 +1,15 @@
 ---
 title: Data Structures
-description: Example test article that contains basic HTML elements for text formatting on the Web.
+description: Cheatsheet of GoLang data structures code snippets. Java vs GoLang arrays, slices, maps
 tags:
-  - "HTML"
-  - "CSS"
-  - "Basic Elements"
+  - "GoLang"
+  - "Java"
+  - "GoLang slice"
+  - "GoLang arrays"
+  - "GoLang list"
+  - "GoLang map"
+  - "GoLang foreach"
+  - "GoLang loops"
 menu: main
 ---
 

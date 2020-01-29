@@ -1,6 +1,13 @@
 ---
 title: Methods
-description: Example test article that contains basic HTML elements for text formatting on the Web.
+description: Cheatsheet of GoLang method code snippets. Java vs GoLang methods
+tags:
+  - "GoLang"
+  - "Java"
+  - "GoLang methods"
+  - "GoLang functions"
+  - "GoLang error handling"
+  - "GoLang exceptions"
 menu: main
 ---
 

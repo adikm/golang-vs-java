@@ -1,10 +1,12 @@
 ---
 title: Basics
-description: Example test article that contains basic HTML elements for text formatting on the Web.
+description: Cheatsheet of basic GoLang code snippets. Java vs GoLang basic comparison
 tags:
-  - "HTML"
-  - "CSS"
+  - "GoLang"
+  - "Java"
   - "Basic Elements"
+  - "Go Hello World"
+  - "GoLang Hello World"
 menu: main
 ---
 

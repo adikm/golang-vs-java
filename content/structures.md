@@ -1,10 +1,13 @@
 ---
 title: Structures
-description: Example test article that contains basic HTML elements for text formatting on the Web.
+description: Cheatsheet of GoLang structures. Java vs GoLang classes and objects
 tags:
-  - "HTML"
-  - "CSS"
-  - "Basic Elements"
+  - "GoLang"
+  - "Java"
+  - "GoLang methods"
+  - "GoLang functions"
+  - "GoLang error handling"
+  - "GoLang exceptions"
 menu: main
 ---
 
@@ -15,7 +18,7 @@ menu: main
 {{< right-column >}}{{% code file="structures/struct.go" %}}{{< /right-column >}}
 {{< /flex >}}
 
-## Object initialization
+## Structure initialization
 
 {{< flex >}}
 {{< left-column >}}{{% code file="structures/initialization.java" %}}{{< /left-column >}}
