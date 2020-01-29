@@ -32,6 +32,6 @@ menu: main
 ## Strings II
 
 {{< flex >}}
-{{< left-column >}}{{% code file="basics/strings2.java" %}}{{< /left-column >}}
-{{< right-column >}}{{% code file="basics/strings2.go" %}}{{< /right-column >}}
+{{< left-column >}}{{% code file="basics/multiline.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="basics/multiline.go" %}}{{< /right-column >}}
 {{< /flex >}}
