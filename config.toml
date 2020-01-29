@@ -4,11 +4,11 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "binario"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "UA-115821533-2" # Enable Google Analytics by entering your tracking id
 
 [Params]
   description = "Responsive card-based & code-light Hugo theme" # Site Description. Used in meta description
-  copyright = "Binario" # Copyright holder, otherwise will use .Site.Title
+  copyright = "amarszalek.net" # Copyright holder, otherwise will use .Site.Title
   columns = 2 # Set the number of cards columns. Possible values: 1, 2, 3
   mainSections = ["post"] # Set main page sections
   post_meta = ["date"] # Enable post meta fields in given order
@@ -21,7 +21,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   authorbox = true
 
 [Author] # Used in authorbox
-  name = "John Doe"
+  name = "Adrian Marszałek"
   bio = true
 
 [Params.Social]
@@ -34,13 +34,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 # https://www.w3.org/TR/appmanifest/
 # https://developers.google.com/web/fundamentals/web-app-manifest/
 [Params.Manifest]
-  name = "Binario"
-  shortName = "Binario"
+  name = "Java vs GoLang cheatsheet"
+  shortName = "Java vs GoLang"
   display = "browser"
   startUrl = "/"
   backgroundColor = "#2a2a2a"
   themeColor = "#1b1b1b"
-  description = "Responsive card-based & code-light Hugo theme"
+  description = "Java vs GoLang comparison cheatsheet"
   orientation = "portrait"
   scope = "/"
 
