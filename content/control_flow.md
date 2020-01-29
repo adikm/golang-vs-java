@@ -38,3 +38,10 @@ menu: main
 {{< left-column >}}{{% code file="control_flow/while.java" %}}{{< /left-column >}}
 {{< right-column >}}{{% code file="control_flow/while.go" %}}{{< /right-column >}}
 {{< /flex >}}
+
+## Finally clause/defer
+
+{{< flex >}}
+{{< left-column >}}{{% code file="control_flow/defer-finally.java" %}}{{< /left-column >}}
+{{< right-column >}}{{% code file="control_flow/defer-finally.go" %}}{{< /right-column >}}
+{{< /flex >}}

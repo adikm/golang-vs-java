@@ -1,3 +1,3 @@
 for _, letter := range letters {
-fmt.Println(letter)
+	fmt.Println(letter)
 }
