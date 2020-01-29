@@ -6,7 +6,9 @@ tags:
   - "Java"
   - "GoLang concurrency"
   - "goroutines"
-menu: main
+menu: 
+    main:
+        weight: 5
 ---
 
 ## Basic async invocation

@@ -10,7 +10,9 @@ tags:
   - "GoLang map"
   - "GoLang foreach"
   - "GoLang loops"
-menu: main
+menu: 
+    main:
+        weight: 1
 ---
 
 ## Arrays

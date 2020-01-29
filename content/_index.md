@@ -7,7 +7,9 @@ tags:
   - "Basic Elements"
   - "Go Hello World"
   - "GoLang Hello World"
-menu: main
+menu: 
+    main:
+        weight: -1
 ---
 
 ## Hello World

@@ -8,7 +8,9 @@ tags:
   - "GoLang functions"
   - "GoLang error handling"
   - "GoLang exceptions"
-menu: main
+menu: 
+    main:
+        weight: 4
 ---
 
 ## Basic structure

@@ -10,7 +10,9 @@ tags:
   - "GoLang for"
   - "GoLang loops"
   - "GoLang while"
-menu: main
+menu: 
+    main:
+        weight: 3
 ---
 
 ## Conditionals
