@@ -45,6 +45,13 @@ h4 {
     border-bottom-width: 0;
     padding-top: 4px;
 }
+
+@media screen and (max-width: 851px) {
+    .site-title {
+        text-align: center;
+    }
+}
+
 .site-title-text {
     font-size: 1.25rem;
     margin-right: auto;
