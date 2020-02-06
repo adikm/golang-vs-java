@@ -1,4 +1,4 @@
-List<String> letters = List.of("a", "b", "c", "d");
+var letters = List.of("a", "b", "c", "d");
 
 letters.add("e");
 
