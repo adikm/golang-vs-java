@@ -1,3 +1,3 @@
-for (String car : cars) {
+for (var car : cars) {
     System.out.println(strTemp);
 }
