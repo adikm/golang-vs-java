@@ -1,3 +1,6 @@
-var text = "First Line\n" +
-              "Second Line\n" +
-              "Third Line";
+var text = """
+              First Line
+              Second Line
+              Third Line
+           """;
+  
